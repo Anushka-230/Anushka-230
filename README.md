@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anushka-230
 - 👀 I’m interested in Front-end Web development, DSA
-- 🌱 I’m currently learning C (programming language)
+- 🌱 I’m currently learning Java
 - 📫 Reach me on Linkedin- https://www.linkedin.com/in/anushka-das-006011287/
 - ⚡ Skills I have learnt- Python, HTML, CSS
 
